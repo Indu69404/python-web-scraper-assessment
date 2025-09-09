@@ -5,11 +5,6 @@ A brief description of what this project does and its purpose.
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## About
 Provide a more detailed explanation of your project.  
@@ -32,3 +27,4 @@ cd repository-name
 
 # Install dependencies (if any)
 # Example: npm install or pip install -r requirements.txt
+
